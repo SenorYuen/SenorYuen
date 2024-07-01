@@ -3,8 +3,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:adam.yuen@ucalgary.ca)
 
 ## About me
-**Education**: University of Calgary, Class of 2026?
- **Languages & Tools**: 
+- **Education**: University of Calgary, Class of 2026?
+- **Languages & Tools**: 
   - Programming Languages: `Python`, `C`, `C++`, `Java`
   - Web Development: `HTML`, `CSS`, `React`, `Flask`
 
