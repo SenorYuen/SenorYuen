@@ -4,6 +4,13 @@
 
 ## About me
 **Education**: University of Calgary, Class of 2026?
+ **Languages & Tools**: 
+  - Programming Languages: `Python`, `C`, `C++`, `Java`
+  - Web Development: `HTML`, `CSS`, `React`, `Flask`
+
+
+
+
 <!--
 **SenorYuen/SenorYuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
