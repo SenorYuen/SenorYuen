@@ -7,6 +7,7 @@
 - **Languages & Tools**: 
   - Programming Languages: `Python`, `C`, `C++`, `Java`
   - Web Development: `HTML`, `CSS`, `React`, `Flask`
+  - LLM knowledge: `OpenAI`, `Rasa`
 
 
 
