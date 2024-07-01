@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adam-yuen/) 
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:adam.yuen@ucalgary.ca)
 
-## About me
+## About me (WIP I HAVE NO IDEA WHAT IM DOING)
 - **Education**: University of Calgary, Class of 2026?
 - **Languages & Tools**: 
   - Programming Languages: `Python`, `C`, `C++`, `Java`
