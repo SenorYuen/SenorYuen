@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adam-yuen/) 
+[![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:adam.yuen@ucalgary.ca)
 <!--
 **SenorYuen/SenorYuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
