@@ -2,12 +2,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adam-yuen/) 
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:adam.yuen@ucalgary.ca)
 
-## About me (WIP I HAVE NO IDEA WHAT IM DOING)
-- **Education**: University of Calgary, Class of 2026?
+## About me (WIP)
+- **Education**: University of Calgary, Class of 2027?
 - **Languages & Tools**: 
-  - Programming Languages: `Python`, `C`, `C++`, `Java`
-  - Web Development: `HTML`, `CSS`, `React`, `Flask`
-  - LLM knowledge: `OpenAI`, `Rasa`
+  - ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&labelColor=474747&logo=python&logoColor=4584b6)
+  - ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&labelColor=474747&logo=c&logoColor=649AD2)
+  - ![C](https://img.shields.io/badge/C-004482?style=for-the-badge&labelColor=474747&logo=c&logoColor=649AD2)
+  - ![Java](https://img.shields.io/badge/Java-ffde57?style=for-the-badge&labelColor=474747&logo=java&logoColor=4584b6)
+  
 
 
 
