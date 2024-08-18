@@ -9,7 +9,7 @@
   ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&labelColor=474747&logo=cplusplus&logoColor=649AD2)
   ![C](https://img.shields.io/badge/C-004482?style=for-the-badge&labelColor=474747&logo=c&logoColor=649AD2)
   ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&labelColor=474747&logo=javascript&logoColor=f7df1e)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=474747&logo=java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=474747&logo=openjdk&logoColor=007396)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=474747&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=474747&logo=css3&logoColor=1572B6)
 - **Projects I've worked on**:
