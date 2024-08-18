@@ -14,8 +14,8 @@
   - Optimizing prompts to improve generated code for Software Engineers
   - Biofeedback Walker
   - IMU Based Crash Detector
-
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorYuen&hide_progress=false&theme=dark&layout=compact)
 
 
 
