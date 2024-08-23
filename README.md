@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adam-yuen/) 
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?style=flat&logo=gmail)](mailto:adam.yuen@ucalgary.ca)
 
-## About me (WIP)
+## About me
 - **Education**: University of Calgary, Class of 2027
 - **Languages & Tools**: 
   - ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&labelColor=474747&logo=python&logoColor=4584b6)
