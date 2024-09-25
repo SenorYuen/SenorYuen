@@ -13,6 +13,7 @@
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=474747&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=474747&logo=css3&logoColor=1572B6)
 - **Projects I've worked on**:
+  - [Sandoz Intent Based Chatbot](https://www.concordia.ca/news/stories/2024/09/04/gina-cody-school-researcher-looks-to-transform-drug-related-inquiries-with-ai-driven-chatbots.html)
   - Augmenting NLU data using ChatGPT
   - Optimizing prompts to improve generated code for Software Engineers
   - Biofeedback Walker
