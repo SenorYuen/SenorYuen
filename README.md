@@ -18,6 +18,7 @@
   - Optimizing prompts to improve generated code for Software Engineers
   - Biofeedback Walker
   - IMU Based Crash Detector
+  - [Universal TV Remote for Dementia Patients](https://bmerit.web.app/project-pages/past/tv-remote.html)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorYuen&hide_progress=false&theme=dark&layout=compact)
 
