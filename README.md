@@ -16,7 +16,7 @@
   - [Sandoz Intent Based Chatbot](https://www.concordia.ca/news/stories/2024/09/04/gina-cody-school-researcher-looks-to-transform-drug-related-inquiries-with-ai-driven-chatbots.html)
   - Augmenting NLU data using ChatGPT
   - Optimizing prompts to improve generated code for Software Engineers
-  - Biofeedback Walker
+  - [Biofeedback Walker](https://bmerit.web.app/biodesign-synergy.html)
   - [IMU Based Crash Detector](https://github.com/SenorYuen/CrashDetector)
   - [Universal TV Remote for Dementia Patients](https://bmerit.web.app/project-pages/past/tv-remote.html)
   
