@@ -13,12 +13,12 @@
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=474747&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=474747&logo=css3&logoColor=1572B6)
 - **Projects I've worked on**:
+  - [Optimizing prompts to improve generated code for Software Engineers](https://conf.researchr.org/details/icsme-2025/icsme-2025-nier/9/Prompting-Matters-Assessing-the-Effect-of-Prompting-Techniques-on-LLM-Generated-Clas)
+  - [Biofeedback Walker](https://bmerit.vercel.app/projects/cyberstride)
   - [Sandoz Intent Based Chatbot](https://www.concordia.ca/news/stories/2024/09/04/gina-cody-school-researcher-looks-to-transform-drug-related-inquiries-with-ai-driven-chatbots.html)
-  - Augmenting NLU data using ChatGPT
-  - Optimizing prompts to improve generated code for Software Engineers
-  - [Biofeedback Walker](https://bmerit.web.app/biodesign-synergy.html)
   - [IMU Based Crash Detector](https://github.com/SenorYuen/CrashDetector)
-  - [Universal TV Remote for Dementia Patients](https://bmerit.web.app/project-pages/past/tv-remote.html)
+  - [Universal TV Remote for Dementia Patients](https://bmerit.vercel.app/projects/tv-remote)
+  - Augmenting NLU data using ChatGPT
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorYuen&hide_progress=false&theme=dark&layout=compact)
 
