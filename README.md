@@ -18,6 +18,7 @@
   - [Sandoz Intent Based Chatbot](https://www.concordia.ca/news/stories/2024/09/04/gina-cody-school-researcher-looks-to-transform-drug-related-inquiries-with-ai-driven-chatbots.html)
   - [IMU Based Crash Detector](https://github.com/SenorYuen/CrashDetector)
   - [Universal TV Remote for Dementia Patients](https://bmerit.vercel.app/projects/tv-remote)
+  - Gait and Joint Angle Feedback Device
   - Augmenting NLU data using ChatGPT
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorYuen&hide_progress=false&theme=dark&layout=compact)
